@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693685011193",
+    "project_id": "tap-app-remota",
+    "storage_bucket": "tap-app-remota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693685011193:android:4f6f43b64f6b5f5239d828",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tap_u5_ejercicio4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693685011193-s72u3ffcno8qopopr8gm66eb82cr3nba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBnFZZMtVif3BnbQXcadFHRRnj99Xiko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693685011193-s72u3ffcno8qopopr8gm66eb82cr3nba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
